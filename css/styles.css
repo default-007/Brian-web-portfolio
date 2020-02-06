@@ -13,16 +13,22 @@ body {
   border: 5px solid red;
   color: blue;
   width: 500px;
+  background-color: white;
 }
 div {
   background-color: grey;
 }
 section {
   text-align: center;
+  margin: auto;
+  width: 50%;
 }
 h2 {
   color: green;
 }
 h3 {
   color: pink;
+}
+.name {
+  font-size: 15px;
 }
