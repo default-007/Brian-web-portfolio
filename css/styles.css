@@ -2,14 +2,15 @@ body {
   margin: 100px;
   font-family: sans-serif;
   background-image: url(/home/josh/Desktop/ip/Web-portfolio/images/592815.jpg);
-  text-align: center;
 }
 .introduction {
   border: 5px solid red;
   color: blue;
   width: 500px;
-  background-color: white;
 }
 div {
-  background-color: white;
+  color: white;
+}
+section {
+  text-align: center;
 }
