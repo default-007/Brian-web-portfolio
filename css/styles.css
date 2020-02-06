@@ -1,16 +1,28 @@
 body {
-  margin: 100px;
+  color: white;
+  margin: 300px;
   font-family: sans-serif;
   background-image: url(/home/josh/Desktop/ip/Web-portfolio/images/592815.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: scroll;
 }
+
 .introduction {
   border: 5px solid red;
   color: blue;
   width: 500px;
 }
 div {
-  color: white;
+  background-color: grey;
 }
 section {
   text-align: center;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: pink;
 }
